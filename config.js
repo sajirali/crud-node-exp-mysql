@@ -2,7 +2,7 @@ var config = {
     database: {
         host: 'localhost',      // database host
         user: 'root',           // your database username
-        password: 'trinimbus',  // your database password
+        password: 'passwd',  // your database password
         port: 3306,             // default MySQL port
         db: 'mysqlnodeexp'      // your database name
     },
